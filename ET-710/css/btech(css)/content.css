@@ -1,0 +1,60 @@
+
+.four-up-feature {
+  text-align: center;
+}
+
+.four-up-feature .four-up-feature-header {
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  /* display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; */
+  position: relative;
+  overflow: visible;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.four-up-feature .four-up-feature-image {
+  margin-bottom: 2rem;
+}
+
+.four-up-feature .four-up-feature-text {
+  margin-bottom: 2rem;
+}
+
+.four-up-feature h4 {
+  color: orange;
+  font-style: bold;
+  font-weight: bolder;
+  border-bottom: 3px solid black;
+  padding-bottom: 0px;
+
+}
+.four-up-feature h2, p {
+  font-family: "courier", sans-serif;
+
+}
+
+.four-up-feature h2{
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.four-up-feature h6 {
+  color: orange;
+  padding-bottom: 35px;
+}
+/* .ecommerce-footer-bottom-bar {
+  border-top: 1px solid white;
+  margin-top: 40px;
+  padding-bottom: 0px;
+  padding-top: 30px;
+} */
